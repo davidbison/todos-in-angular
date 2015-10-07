@@ -1,7 +1,7 @@
 # DBC Phase 3 Passion Project: AngularJS
 
 ### How It Works
-These two simple todo lists are nearly identical in functionality, and they are made functional using the frontend framework AngularJS. One is written in a single HTML file. One is separated out into a controller and a view to work with modular MVC architecture. A user can see all tasks in the list, add a task to the list, and remove a task from the list once it has been completed. Neither list persists when the browser is closed out or refreshed, but the static HTML pages are dynamically updated in real time thanks to Angular's scope object and two way data binding. If you would like to hear me elaborate on the details of this passion project, you can view my webcast [here]().
+These two simple todo lists are nearly identical in functionality, and they are made functional using the frontend framework AngularJS. One is written in a single HTML file. One is separated out into a controller and a view to work with modular MVC architecture. A user can see all tasks in the list, add a task to the list, and remove a task from the list once it has been completed. Neither list persists when the browser is closed out or refreshed, but the static HTML pages are dynamically updated in real time thanks to Angular's scope object and two way data binding. If you would like to hear me elaborate on the details of this passion project, you can view my webcast [here](https://youtu.be/SxPF9xl5trc).
 
 
 ### How to Contribute to It
