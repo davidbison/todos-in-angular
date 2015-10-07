@@ -1,7 +1,7 @@
 var app = angular.module("Todo", []);
 app.controller("TodoCtrl", function($scope) {
   $scope.tasks = [
-    "Create Todo List", "Watch Videos of Angular's Pappy", "Create Informative Screencast", "~Go Home and Eat Smokehouse~"
+    "Build Todo List", "Watch Videos on AngularJS", "Outline Informative Screencast", "~Go Home and Eat Smokehouse~"
   ];
 
   $scope.done = function(todo) {
