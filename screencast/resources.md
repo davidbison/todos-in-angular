@@ -6,16 +6,23 @@ I was lucky in that most of the resources I stumbled upon were helpful, and I've
 
 ####Tutorials
 [Code School's free AngularJS Course](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
 [Quick and Dirty YouTube Angular App](https://www.youtube.com/watch?v=FSOiVprDdj0)
+
 [AngularJS for Beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
 
 ####Videos
 [Learn and Understand AngularJS](https://www.youtube.com/watch?v=ejBkOjEG6F0)
+
 [Intro to Angular with Code Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo)
+
 [AngularJS Creator Miško Hevery Re-Imagines the Browser](https://www.youtube.com/watch?v=ersEb9vTX3Y)
+
 [Angular Fundamentals in ~60 Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
 ####Documentation
 [Guide to AngularJS Documentation](https://docs.angularjs.org/guide)
+
 [AngularJS API Docs](https://docs.angularjs.org/api)
+
 [AngularJS Version Code Links](https://code.angularjs.org/)
