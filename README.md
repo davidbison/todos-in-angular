@@ -9,4 +9,6 @@ If you would like to contribute to my exploration of AngularJS, please feel free
 
 
 ### How to Clone the Repo and Get it Working in Development
-If you would like to clone the repo to see the lists, you will have to do little more than keep the files in their respective directories and simply open the index.html files in your browser. I developed these apps to work in Chrome following tutorials, which I have included in the resources file in the screencast directory of this repo.
+If you clone the repo to your local computer and want to play with the code I've written, you will be well on your way as long as you keep the files in their respective directories and open the index.html file with your browser. I developed each app to work in Chrome.
+
+The tutorials I followed to create these apps, as well as other resources used to help me build a foundation on this fantastic JavaScript framework, can be found in [screencast/resources.md](https://github.com/davidbison/todos-in-angular/tree/master/screencast). The script tag included in each app is the minified source from [AngularJS v1.4.7](https://code.angularjs.org/1.4.7/angular.min.js). Unless something strange happens to this version of Angular, you should be up and running without a hitch.
