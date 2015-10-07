@@ -5,7 +5,7 @@ These two simple todo lists are nearly identical in functionality, and they are 
 
 
 ### How to Contribute to It
-If you would like to contribute to my exploration of AngularJS, please feel free to send project ideas and tutorials my way. I would like to continue learning how to build web apps in JavaScript by jumping into Node, Express, and Mongo.
+If you would like to contribute to my exploration of AngularJS, please feel free to send project ideas and tutorials my way. I plan to continue building web apps by exploring more of JavaScript's fullstack with Node.js, Express, and MongoDB.
 
 
 ### How to Clone the Repo and Get it Working in Development
